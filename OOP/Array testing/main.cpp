@@ -1,8 +1,8 @@
 /***************************************************************************************
- * ID: 65037743
  * NAME: Mr.Kidsadakorn Nualloong
- * DESCRIPTION: ArrayList Testing
+ * DESCRIPTION: ArrayList Algorithm
  ***************************************************************************************/
+
 #include <iostream>
 #include "arrayList.h"
 

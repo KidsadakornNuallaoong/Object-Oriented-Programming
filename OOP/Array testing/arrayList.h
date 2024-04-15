@@ -1,3 +1,8 @@
+/***************************************************************************************
+ * NAME: Mr.Kidsadakorn Nualloong
+ * DESCRIPTION: ArrayList Algorithm
+ ***************************************************************************************/
+
 #if !defined(_ARRAYLIST_H)
 #define _ARRAYLIST_H
 
